@@ -1,0 +1,41 @@
+body{
+    margin:0%;
+    padding: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+
+.nav-link{
+    margin-left:  300px;
+    display: flex;
+}
+
+.container {
+       text-align: center;
+    color:black;
+  }
+
+  .details{
+    width: 100%;
+    height: auto;
+    background: linear-gradient(#02aab0 , #00cdac);
+  }
+
+  .details h3{
+    color: indigo;
+    text-decoration: underline;
+  }
+
+  .details h4{
+    color: darkolivegreen;
+  }
+
+  .details h6{
+    color:darkred;
+    text-decoration: underline;
+  }
+
+  .list-group li:hover{
+    color: #02aab0;
+  }
